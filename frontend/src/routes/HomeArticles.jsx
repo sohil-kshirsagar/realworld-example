@@ -32,7 +32,7 @@ function HomeArticles() {
       />
     </>
   ) : (
-    <div className="article-preview">Articles not available.</div>
+    <div className="article-preview">No articles found.</div>
   );
 }
 
